@@ -22,6 +22,7 @@ Create a python3 virtual environment or use python3 directly in the command line
 e.g. 
 `python git_summarizer.py facebook/react google/clusterfuzz`
 
+### Help
 Use `python git_summarizer.py -h` for help
 
 ## Output

@@ -12,8 +12,7 @@ Create a python 3 virtual environment or use `python3` directly.
 ```bash
 python3 -m venv venv && source venv/bin/activate
 ```
-
-### Install Requirements
+Install Requirements
 ```bash
 pip install -r requirements.txt
 ```
